@@ -1,11 +1,17 @@
+![Seekerbot Radar in game](Images/SeekerbotRadarThumb.png)
+
 # Seekerbot Radar
 
 Track the Seekerbot's location, distance, and current activity in Survival.
 
+## PLEASE NOTE
+
+All files are provided as source code. There is no build process or compilation step required. You don't even need the unzipped files to be in the same folder as the Scrap Mechanic game.
+
 ## Install
 
-1. Extract the ZIP.
-2. Close Scrap Mechanic.
+1. Extract the ZIP anywhere.
+2. Make sure Scrap Mechanic is fully closed.
 3. Double-click **Install.cmd**. Keep the **SeekerbotRadar** folder beside it.
 4. Start the game, open the logbook (**L**), and turn **SEEKERBOT RADAR: ON**.
 
